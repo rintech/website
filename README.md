@@ -1,2 +1,2 @@
 # website
-- Rintech‚ÌWebƒTƒCƒg‚¾‚¨H
+- Rintechã®Webã‚µã‚¤ãƒˆã ãŠï¼Ÿ
