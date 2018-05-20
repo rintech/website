@@ -2,16 +2,26 @@
 html{
     width:100%;
     height:100%;
-    margin:0;
-    }
+}
 
 body {
-    background-image: url("../img/Rintech.svg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
     font-family: "Mplus 1p",sans-serif;
     font-weight: 500;
     margin: auto;
+}
+
+header {
+    background-color: greenyellow; 
+}
+
+ul {
+    margin: 0;
+    list-style-type: none;
+    padding-left: 0;
+
+}
+
+li {
+    font-size: 20px;
+    display: inline-block;
 }
