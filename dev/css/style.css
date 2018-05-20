@@ -11,23 +11,36 @@ body {
 }
 
 header {
-    background-color: greenyellow; 
+    background-color: #74DF00; 
+    text-align: right;
+    padding: 10px;
+    background-image: url(../img/りんてっく.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 60px;
+    height: 240px;
+
 }
 
-ul {
+header ul {
     margin: 0;
     list-style-type: none;
     padding-left: 0;
 
 }
 
-li {
+header li {
     font-size: 20px;
     display: inline-block;
     padding: 4px 8px;
 }
 
-a  {
+header li > a  {
     text-decoration: none;
     color: inherit;
+}
+
+header li > a:hover {
+    color: blue;
 }
