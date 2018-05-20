@@ -2,6 +2,7 @@
 html{
     width:100%;
     height:100%;
+    margin: 0;
 }
 
 body {
@@ -17,6 +18,7 @@ header {
     padding: 10px;
     margin-bottom: 60px;
     height: 540px;
+    position: relative;
 }
 
 header ul {
@@ -40,7 +42,21 @@ header li > a:hover {
     color: blue;
 }
 
-header p {
+.now {
+    border-bottom: 4px solid blue;
+}
+
+section {
+    position: absolute;
+	top: 30%;
+	right: 20%;
+	bottom: 30%;
+	left: 20%;
+    margin: auto;
+    max-width: 500px;
+}
+
+section p {
     font-family: inherit;
     color: white;
     font-size: 25px;
@@ -48,8 +64,8 @@ header p {
     margin: auto;
 }
 
-header img {
-    width: 50%;
+section img {
+    width: auto;
     display: block;
     margin:auto;
 }
