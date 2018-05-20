@@ -24,4 +24,5 @@ ul {
 li {
     font-size: 20px;
     display: inline-block;
+    padding: 4px 8px;
 }
