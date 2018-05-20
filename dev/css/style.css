@@ -17,7 +17,7 @@ header {
     text-align: right;
     padding: 10px;
     margin-bottom: 60px;
-    height: 540px;
+    height: 450px;
     position: relative;
 }
 
@@ -48,7 +48,7 @@ header li > a:hover {
 
 section {
     position: absolute;
-	top: 25%;
+	top: 30%;
 	right: 15%;
 	bottom: 25%;
 	left: 15%;
@@ -59,7 +59,7 @@ section {
 section p {
     font-family: inherit;
     color: white;
-    font-size: 25px;
+    font-size: 18px;
     text-align: center;
     margin: auto;
 }
