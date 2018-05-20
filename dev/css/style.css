@@ -11,20 +11,18 @@ body {
 }
 
 header {
-    font-family: "Mplus 1p",sans-serif;
+    font-family: inherit;
     background-color: #92d050; 
     text-align: right;
     padding: 10px;
     margin-bottom: 60px;
     height: 540px;
-
 }
 
 header ul {
     margin: 0;
     list-style-type: none;
     padding-left: 0;
-
 }
 
 header li {
@@ -42,11 +40,16 @@ header li > a:hover {
     color: blue;
 }
 
-header h1 {
+header p {
     font-family: inherit;
     color: white;
-    font-size: 75px;
+    font-size: 25px;
     text-align: center;
-    line-height: 400px;
-    letter-spacing: 10px;
+    margin: auto;
+}
+
+header img {
+    width: 50%;
+    display: block;
+    margin:auto;
 }
