@@ -26,3 +26,8 @@ li {
     display: inline-block;
     padding: 4px 8px;
 }
+
+a  {
+    text-decoration: none;
+    color: inherit;
+}
