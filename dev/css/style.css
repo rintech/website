@@ -12,8 +12,15 @@ body {
 }
 
 body h1 {
-    
+    color: gray;
     text-align: center;
+    font-size: 3rem;
+}
+
+body p {
+    color: gray;
+    text-align: center;
+    font-size: 25px;
 }
 
 header {
