@@ -11,6 +11,11 @@ body {
     margin: auto;
 }
 
+body h1 {
+    
+    text-align: center;
+}
+
 header {
     font-family: inherit;
     background-color: #92d050; 
