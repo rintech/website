@@ -51,11 +51,11 @@ header li > a  {
 }
 
 header li > a:hover {
-    color: blue;
+    color: rgb(255, 230, 0);
 }
 
 .now {
-    border-bottom: 4px solid blue;
+    border-bottom: 4px solid rgb(255, 230, 0);
 }
 
 section {
