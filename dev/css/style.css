@@ -20,8 +20,8 @@ body h1 {
 body p {
     color: gray;
     font-size: 18px;
-    margin: auto;
     max-width: 90%;
+    margin: auto;
 }
 
 
