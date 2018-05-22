@@ -7,20 +7,21 @@ html{
 
 body {
     font-family: "Mplus 1p",sans-serif;
+    text-align: center;
     font-weight: 500;
     margin: auto;
 }
 
 body h1 {
     color: gray;
-    text-align: center;
-    font-size: 35px;
+    font-size: 28px;
 }
 
 body p {
     color: gray;
-    text-align: center;
     font-size: 18px;
+    margin: auto;
+    max-width: 90%;
 }
 
 
@@ -74,7 +75,6 @@ section p {
     font-family: inherit;
     color: white;
     font-size: 18px;
-    text-align: center;
     margin: auto;
 }
 
