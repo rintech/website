@@ -6,7 +6,7 @@ html{
 }
 
 body {
-    font-family: "Mplus 1p",sans-serif;
+    font-family: "Sawarabi Gothic",sans-serif;
     text-align: center;
     font-weight: 500;
     margin: auto;
@@ -19,7 +19,8 @@ body h1 {
 
 body p {
     color: gray;
-    font-size: 18px;
+    font-weight: 400;
+    font-size: 19px;
     max-width: 90%;
     margin: auto;
 }
